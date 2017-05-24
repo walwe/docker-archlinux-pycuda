@@ -1,4 +1,4 @@
-# Docker Archlinux pyCUDA
+# Docker Archlinux pycuda
 
 ## Usage
 Start using docker-compose:

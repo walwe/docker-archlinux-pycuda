@@ -6,6 +6,6 @@ services:
     image: walwe/archlinux-pycuda
 
     devices:
-      - "/dev/nvidia0:/dev/nvidia0"
-      - "/dev/nvidiactl:/dev/nvidiactl"
-      - "/dev/nvidia-uvm:/dev/nvidia-uvm"
+      - "/dev/nvidia0"
+      - "/dev/nvidiactl"
+      - "/dev/nvidia-uvm"
